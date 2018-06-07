@@ -1,0 +1,21 @@
+
+Gallery 
+--------
+
+Data Attributes > Coffee & Code Cafe
+
+- image - outside-cafe
+- name - Coffee &amp Code
+- user - Lauren Harris
+- attendees - 22
+- date - 18th January
+- url - single.html
+
+Data Attributes > Beach Trip
+
+- image -  beach 
+- name -  Beach Trip 
+- user -  Emily Silva 
+- attendees -  11 
+- date -  15th June 
+- url -  single.html 
